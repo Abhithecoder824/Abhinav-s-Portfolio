@@ -1,0 +1,14 @@
+#Apps {
+    background-color:beige ;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin: 8px auto;
+}
+
+#Games {
+    background-color: burlywood;
+}
